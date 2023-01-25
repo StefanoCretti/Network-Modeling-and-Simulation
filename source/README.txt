@@ -1,4 +1,4 @@
-HOW TO USE:
+## HOW TO USE:
 - create model and set of parameters (if not already existing) using ModStruct and ParStruct respectively
 - fill in the simulation grid
 - launch matlab in the folder
